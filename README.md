@@ -1,7 +1,6 @@
-# All the QFNS
+# All the QFNS (KiCad)
 ## ALL OF THEM 
 ### EVERY SINGLE ONE REGISTAERED WITH JEDEC
-For Kicad
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHH
 
 ![image](https://github.com/user-attachments/assets/11638d08-7fbe-4f3f-bc57-d564c19935f2)
