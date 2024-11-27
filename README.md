@@ -7,7 +7,7 @@
 
 LOOK AT THIS CHIP
 
-![image](https://github.com/user-attachments/assets/8d4073be-ce1b-48f8-a9ab-ed0176ba5a5b)
+![image](https://github.com/user-attachments/assets/dc941eec-71e9-4a20-bc97-4b5ba3e0e808)
 
 IT EVEN HAS THE PASTE APERTURES
 
