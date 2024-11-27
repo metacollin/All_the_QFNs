@@ -9,9 +9,10 @@ LOOK AT THIS CHIP
 
 ![image](https://github.com/user-attachments/assets/8d4073be-ce1b-48f8-a9ab-ed0176ba5a5b)
 
-IT EVEN HAS THE SOLDER PADS
+IT EVEN HAS THE PASTE APERTURES
 
 
 ![image](https://github.com/user-attachments/assets/190da8ae-9302-4ae3-b3b6-dfe73e602212)
 
-IPC-7531 COMPLIANT
+IPC-7531 COMPLIANT WHERE IT COUNTS
+YOUR FILLETS WILL LOVE YOU
